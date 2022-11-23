@@ -1,0 +1,41 @@
+img{
+    align: center
+    margin: 15px;
+    border-radius: 10px;
+}
+h1{
+    font-size:25px;
+}
+.keu{
+    color:gray;
+}
+a{
+    color:gray;
+    text-decoration: none;
+    font-size: 10px;
+}
+.mala{
+    color:28104E;
+}
+.aaaa{
+    color:28104E;
+}
+.ratu{
+    color:28104E;
+}
+.ai{
+    font-style: arial;
+}
+.qur{
+    font-size:10px;
+}
+p{
+    font-size: 15px;
+}
+td{
+    font-size: 15px;
+}
+.nie {
+    text-decoration: underline;
+    color : purple;
+}
